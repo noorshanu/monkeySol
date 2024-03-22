@@ -34,7 +34,7 @@ Spider Monkey Meme Coin isn't your average meme – oh no! It's a whirlwind adve
           </a>
 
           <a
-            href="#"
+            href="https://www.dextools.io/app/en/solana/pair-explorer/5xqqkTqg9S9kAqeBSLbGWzZemgVjTX9E1W3rTUkYdxxd?t=1711125635101"
             target="_blank"
             className="text-base py-2 uppercase font-sushi-two px-10 rounded-xl bg-[#e27321] shadow-lg shadow-black/40 text-black  font-bold  border-[#f45a7c] border-2"
           >
