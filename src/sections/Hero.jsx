@@ -25,7 +25,7 @@ function Hero() {
         </div>
         <div className="relative z-40 flex items-center justify-start my-4 max-sm:flex-col max-sm:space-y-4 sm:space-x-5">
           <a
-            href="https://t.me/gabe_solana"
+            href="https://t.me/Spider Monkey_solana"
             target="_blank"
             className="text-base py-2 uppercase font-sushi-two font-semibold px-10 rounded-xl bg-[#e27321] shadow-lg shadow-black/40 text-black   border-[#f45a7c] border-2"
           >
