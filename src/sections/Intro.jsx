@@ -16,8 +16,11 @@ const Intro = () => {
 
 
 
+          <h1 className=" font-sushi-two text-3xl font-bold text-black my-3">Spider Monkey Turning crypto into a jungle gym of giggles</h1>
+
+
           <p className=" text-2xl py-6 px-4">
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Deserunt eos voluptatum culpa aut sed autem accusamus quisquam, id quod dicta modi repudiandae nulla quas, deleniti voluptas cum expedita numquam esse!
+          Spider Monkey Meme Coin isn't your average meme – oh no! It's a whirlwind adventure through the jungle of digital finance, where every twist and turn brings a new burst of excitement and hilarity. Its mission is to be the most entertaining, engaging, and downright meme-tastic coin on the Solana blockchain!
           </p>
 
           <a

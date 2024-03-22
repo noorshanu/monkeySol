@@ -6,11 +6,12 @@ function Hero() {
           <div className=" w-full">
             <img src="images/hero.png" alt="" className=" h-[200px] " />
 
+      
+
             <h1 className=" max-w-xl text-black text-2xl font-sushi-two font-semibold">
-              I am a monkey from China,they call me monkey brother.I have huge
-              abilities. I used to live in caves and on the clouds. Now I am
-              ready to perform in Solana and show the world the huge power from
-              east.
+            Welcome to the wacky and wonderful world of Spider Monkey Meme Coin – where laughter, memes, and crypto collide in a frenzy of fun! 
+
+Spider Monkey Meme Coin isn't your average meme – oh no! It's a whirlwind adventure through the jungle of digital finance, where every twist and turn brings a new burst of excitement and hilarity
             </h1>
 
             <div className=" py-2">
