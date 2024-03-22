@@ -16,17 +16,17 @@ Spider Monkey Meme Coin isn't your average meme – oh no! It's a whirlwind adve
 
             <div className=" py-2">
           <a
-            href="#"
+            href="https://solscan.io/token/4HbYt8A7K4eAoo7sSNjGbfuGSZhFWmgoLeBpMdqEYpWE"
             target="_blank"
             className="my-2  font-sushi-two flex justify-center text-xs  text-black  border-[#f45a7c] sm:text-lg font-semibold border-2  rounded-2xl bg-[#e27321] max-w-xl py-1 "
           >
             {" "}
-            Contract : 5f65PYwzhSEHfDBqMdqJoQnHyQVMnWQuiVzG7WaX4gu9
+            Contract : 4HbYt8A7K4eAoo7sSNjGbfuGSZhFWmgoLeBpMdqEYpW
           </a>
         </div>
         <div className="relative z-40 flex items-center justify-start my-4 max-sm:flex-col max-sm:space-y-4 sm:space-x-5">
           <a
-            href="https://t.me/Spider Monkey_solana"
+            href="https://t.me/spimonkey"
             target="_blank"
             className="text-base py-2 uppercase font-sushi-two font-semibold px-10 rounded-xl bg-[#e27321] shadow-lg shadow-black/40 text-black   border-[#f45a7c] border-2"
           >

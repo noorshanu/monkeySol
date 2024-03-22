@@ -61,7 +61,7 @@ function Navbar() {
             <a target="_blank" href="https://twitter.com/Gabe_solana" className=" text-2xl">
               <FaTwitter fill="#fff" />
             </a>
-            <a target="_blank" href="https://t.me/gabe_solana" className=" text-2xl">
+            <a target="_blank" href="https://t.me/spimonkey" className=" text-2xl">
               <FaTelegram fill="#ffff" />
             </a>
           </div>
